@@ -1,0 +1,10 @@
+{
+	"name": "<%= slugName %>",
+	"version": "0.0.0",
+	"private": true,
+	"dependencies": {
+		"knockout": "~3.4.0",
+		"requirejs": "~2.1.11",
+		"requirejs-text": "~2.0.10"
+	}
+}

@@ -1,0 +1,32 @@
+{
+  "name": "generator-approof",
+  "version": "0.1.0",
+  "description": "Boilerplate for component-based single page application using Knockout",
+  "license": "MIT",
+  "main": "app/index.js",
+  "homepage": "https://github.com/expbytes-software/generator-approof#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/expbytes-software/generator-approof.git"
+  },
+  "bugs": {
+    "url": "https://github.com/expbytes-software/generator-approof/issues"
+  },
+  "author": {
+    "name": "Kimmo Lankila",
+    "email": "krisnod@expbytes.com",
+    "url": "http://expbytes.com/"
+  },
+  "files": [
+    "generators/app"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "knockout"
+  ],
+  "dependencies": {
+    "glob": "^7.0.3",
+    "slug": "^0.9.1",
+    "yeoman-generator": "^0.22.5"
+  }
+}
